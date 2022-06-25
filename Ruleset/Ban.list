@@ -5,5 +5,4 @@ IP-CIDR,239.255.255.250/32,no-resolve
 IP-CIDR,224.0.0.251/24,no-resolve
 DOMAIN,stun.chat.bilibili.com
 
-# 广告连接
-DOMAIN-SUFFIX,erolabs.com
+
