@@ -7,5 +7,8 @@ IP-CIDR,255.255.255.255/32,no-resolve
 
 # 异常地址
 DOMAIN,stun.chat.bilibili.com
+DOMAIN,stun-1.chat.bilibili.com
+DOMAIN,stun-2.chat.bilibili.com
+DOMAIN,hw-web-player-tracker.biliapi.net
 
 
