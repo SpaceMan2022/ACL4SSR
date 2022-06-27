@@ -14,3 +14,6 @@ DOMAIN,sub.xeton.dev
 
 # iwara
 DOMAIN-SUFFIX,iwara.tv
+
+# GFW
+DOMAIN,upload.cc
