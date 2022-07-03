@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,iwara.tv
 # 初音社
 DOMAIN,www.mikuclub.cc
 DOMAIN,www.mikuclub.online
-DOMAIN-SUFFIX,mikuclub.fun
 
 # GFW
 DOMAIN,upload.cc
