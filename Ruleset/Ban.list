@@ -13,4 +13,4 @@ DOMAIN,web-player-tracker.biliapi.net
 DOMAIN,hw-web-player-tracker.biliapi.net
 
 # 垃圾网站
-DOMAIN,di4.biz
+DOMAIN-SUFFIX,biz
