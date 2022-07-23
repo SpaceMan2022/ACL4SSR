@@ -1,7 +1,10 @@
-# 国外网站
+# 成人网站
 
 # Javlib
 DOMAIN-SUFFIX,pixhost.to
 
 # Sankaku Channel
 DOMAIN-SUFFIX,sankakucomplex.com
+
+# Porn
+DOMAIN-KEYWORD,porn
