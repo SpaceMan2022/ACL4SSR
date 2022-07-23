@@ -12,7 +12,6 @@ DOMAIN,stun-2.chat.bilibili.com
 DOMAIN,web-player-tracker.biliapi.net
 DOMAIN,hw-web-player-tracker.biliapi.net
 DOMAIN,oth.eve.mdt.qq.com
-DOMAIN-SUFFIX,msn.com
 
 # 垃圾网站
 DOMAIN-SUFFIX,biz
