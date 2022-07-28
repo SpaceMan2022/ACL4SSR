@@ -16,3 +16,4 @@ DOMAIN,oth.eve.mdt.qq.com
 # 垃圾网站
 DOMAIN-SUFFIX,biz
 DOMAIN-SUFFIX,url.cn
+DOMAIN-KEYWORD,footprint
