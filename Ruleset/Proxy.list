@@ -1,20 +1,24 @@
 # 代理列表
 
 # 机场官网
-DOMAIN,xn--iplc-ec5f119w.com
-DOMAIN,xn--gmq396grzd.com
-DOMAIN,bbxy.cloud
-DOMAIN,baibianxiaoying.top
-DOMAIN,www.moyucloud.com
-DOMAIN,www.ttnet.cyou
-DOMAIN,xn--4oq779j.com
-DOMAIN,1.xn--4oq779j.com
-DOMAIN,1.xn--jprs12i.com
+#DOMAIN,xn--iplc-ec5f119w.com
+#DOMAIN,xn--gmq396grzd.com
+#DOMAIN,bbxy.cloud
+#DOMAIN,baibianxiaoying.top
+#DOMAIN,www.moyucloud.com
+#DOMAIN,www.ttnet.cyou
+#DOMAIN,xn--4oq779j.com
+#DOMAIN,1.xn--4oq779j.com
+#DOMAIN,1.xn--jprs12i.com
 
 # 初音社
-DOMAIN,www.mikuclub.cc
-DOMAIN,www.mikuclub.online
-DOMAIN-SUFFIX,mikuclub.fun
+#DOMAIN,www.mikuclub.cc
+#DOMAIN,www.mikuclub.online
+#DOMAIN-SUFFIX,mikuclub.fun
 
 # GFW
-DOMAIN,upload.cc
+#DOMAIN,upload.cc
+
+# 订阅链接
+DOMAIN,suo.yt
+DOMAIN,sub.id9.cc
