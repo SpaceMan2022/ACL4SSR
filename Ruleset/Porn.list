@@ -12,5 +12,5 @@ DOMAIN-SUFFIX,iwara.tv
 # 其他
 DOMAIN,teannn.com
 DOMAIN-SUFFIX,teaqqq.com
-DOMAIN,www.mikuclub.online
-DOMAIN-SUFFIX,mikuclub.fun
+#DOMAIN,www.mikuclub.online
+#DOMAIN-SUFFIX,mikuclub.fun
