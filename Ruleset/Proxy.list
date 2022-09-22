@@ -1,7 +1,3 @@
 # 代理列表
-
-# 海外网站
-DOMAIN,upload.cc
-
-# GFW
 DOMAIN,javlib.com
+DOMAIN-SUFFIX,iwara.tv
